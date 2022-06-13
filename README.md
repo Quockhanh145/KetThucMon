@@ -1,7 +1,6 @@
 # Đây là một project về shop bán phim
 # Giao diện trang chủ
-![image](https://user-images.githubusercontent.com/73975123/169934493-36c47098-0493-4f29-a6bf-ded25875ae51.png)
-![image](https://user-images.githubusercontent.com/73975123/169934527-4d6a0764-fd63-4f37-ad80-3da3a5be2786.png)
+![image](https://user-images.githubusercontent.com/73975123/173310479-b379a000-4262-45cc-9fad-fba75bfd813f.png)
 # Các công nghệ sử dụng trong project:
 1. Asp.net core MVC
 2. EF Core
