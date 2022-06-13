@@ -7,8 +7,8 @@
 2. EF Core
 3. Bootstrap
 # Có các tính năng ở trang web:
-1. Login & Logout admin
-![image](https://user-images.githubusercontent.com/73975123/169935180-6bbc0a5b-68c8-4431-879d-a51ab8f00659.png)
+1. Login & Logout user
+![image](https://user-images.githubusercontent.com/73975123/173310371-8065b152-3ef0-4b17-958b-1e28fdbbfaea.png)
 2. Thêm sản phẩm vào giỏ hàng và thanh toán
  ![image](https://user-images.githubusercontent.com/73975123/169935082-5d1be900-29cf-4846-93cb-85d0fb39dcfd.png)
 3. Tìm kiếm sản phẩm và phân trang
