@@ -1,4 +1,4 @@
-# Đây là một project về shop bán phim
+# Đây là một project về shop bán vé xem phim
 # Giao diện trang chủ
 ![image](https://user-images.githubusercontent.com/73975123/173310479-b379a000-4262-45cc-9fad-fba75bfd813f.png)
 # Các công nghệ sử dụng trong project:
